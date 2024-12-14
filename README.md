@@ -14,8 +14,8 @@ An Excel worksheet can be found here
 
 ## Executive Summary
 ### Overview of Findings
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed and downloaded [here](https://public.tableau.com/app/profile/steven.lomon/viz/CMLMassage/CMLMassageWellness?publish=yes)
-Peaks :)
+Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed and downloaded [here](https://public.tableau.com/app/profile/steven.lomon/viz/CMLMassage/CMLMassageWellness?publish=yes)  
+
 
 ## Insights Deep Dive
 
